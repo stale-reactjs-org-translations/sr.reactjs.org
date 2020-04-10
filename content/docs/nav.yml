@@ -32,12 +32,12 @@
     - id: forms
       title: Forme
     - id: lifting-state-up
-      title: Uzdizanje stanja naviše
+      title: Prenošenje stanja naviše
     - id: composition-vs-inheritance
-      title: Kompozicija vs nasleđivanje
+      title: Kompozicija vs Nasleđivanje
     - id: thinking-in-react
       title: Razmišljanje u React-u
-- title: Napredni vodiči
+- title: Napredni vodič
   items:
     - id: accessibility
       title: Pristupačnost
