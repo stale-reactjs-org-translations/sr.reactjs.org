@@ -1,8 +1,9 @@
 ---
-title: Component-Based
+title: Bazirano na komponentama
 order: 1
 ---
 
-Build encapsulated components that manage their own state, then compose them to make complex UIs.
+Napravite enkapsulirane komponente koje upravljaju svojim stanjem, zatim ih komponujte u složenije korisničke interfejse.
 
-Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.
+
+S obzirom na to da je sama logika kompontenti bazirana na JavaScript-u, a ne na genericima, možete sa lakoćom proslediti složene podatke kroz vašu aplikaciju i držati stanje izvan DOM-a.

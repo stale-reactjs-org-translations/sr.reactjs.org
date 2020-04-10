@@ -1,89 +1,89 @@
-- title: Installation
+- title: Instalacija
   items:
     - id: getting-started
-      title: Getting Started
+      title: Prvi koraci
     - id: add-react-to-a-website
-      title: Add React to a Website
+      title: Dodavanje React-a
     - id: create-a-new-react-app
-      title: Create a New React App
+      title: Nova React aplikacija
     - id: cdn-links
-      title: CDN Links
+      title: CDN linkovi
     - id: release-channels
       title: Release Channels
-- title: Main Concepts
+- title: Glavni koncepti
   isOrdered: true
   items:
     - id: hello-world
-      title: Hello World
+      title: Zdravo, svete
     - id: introducing-jsx
-      title: Introducing JSX
+      title: Upoznavanje JSX
     - id: rendering-elements
-      title: Rendering Elements
+      title: Prikazivanje elemenata
     - id: components-and-props
-      title: Components and Props
+      title: Komponente i svojstva
     - id: state-and-lifecycle
-      title: State and Lifecycle
+      title: Stanje i životni vek
     - id: handling-events
-      title: Handling Events
+      title: Rukovanje događajima
     - id: conditional-rendering
-      title: Conditional Rendering
+      title: Uslovno prikazivanje
     - id: lists-and-keys
-      title: Lists and Keys
+      title: Liste i ključevi
     - id: forms
-      title: Forms
+      title: Forme
     - id: lifting-state-up
-      title: Lifting State Up
+      title: Uzdizanje stanja naviše
     - id: composition-vs-inheritance
-      title: Composition vs Inheritance
+      title: Kompozicija vs nasleđivanje
     - id: thinking-in-react
-      title: Thinking In React
-- title: Advanced Guides
+      title: Razmišljanje u React-u
+- title: Napredni vodiči
   items:
     - id: accessibility
-      title: Accessibility
+      title: Pristupačnost
     - id: code-splitting
-      title: Code-Splitting
+      title: Razdvanjanje koda
     - id: context
-      title: Context
+      title: Kontekst
     - id: error-boundaries
-      title: Error Boundaries
+      title: Granice grešaka
     - id: forwarding-refs
-      title: Forwarding Refs
+      title: Prosleđivanje Ref-ova
     - id: fragments
-      title: Fragments
+      title: Fragmenti
     - id: higher-order-components
-      title: Higher-Order Components
+      title: Komponente višeg reda
     - id: integrating-with-other-libraries
-      title: Integrating with Other Libraries
+      title: Integracija sa drugim bibliotekama
     - id: jsx-in-depth
-      title: JSX In Depth
+      title: Napredni JSX
     - id: optimizing-performance
-      title: Optimizing Performance
+      title: Optimizacija performansi
     - id: portals
-      title: Portals
+      title: Portali
     - id: profiler
       title: Profiler
     - id: react-without-es6
-      title: React Without ES6
+      title: React bez ES6
     - id: react-without-jsx
-      title: React Without JSX
+      title: React bez JSX
     - id: reconciliation
       title: Reconciliation
     - id: refs-and-the-dom
-      title: Refs and the DOM
+      title: Ref-ovi i DOM
     - id: render-props
       title: Render Props
     - id: static-type-checking
-      title: Static Type Checking
+      title: Statička tipizacija
     - id: strict-mode
-      title: Strict Mode
+      title: Striktni režim
     - id: typechecking-with-proptypes
-      title: Typechecking With PropTypes
+      title: Tipizacija sa PropTypes
     - id: uncontrolled-components
-      title: Uncontrolled Components
+      title: Nekontrolisane komponente
     - id: web-components
-      title: Web Components
-- title: API Reference
+      title: Veb komponente
+- title: API priručnik
   items:
     - id: react-api
       title: React

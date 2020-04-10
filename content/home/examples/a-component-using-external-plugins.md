@@ -1,7 +1,7 @@
 ---
-title: A Component Using External Plugins
+title: Komponenta koja koristi spoljašnje dodatke
 order: 3
 domid: markdown-example
 ---
 
-React allows you to interface with other libraries and frameworks. This example uses **remarkable**, an external Markdown library, to convert the `<textarea>`'s value in real time.
+React vam dozvoljava da se povežete sa drugim interfejsima i radnim okvirima. Ovaj primer koristi spoljašnju Markdown biblioteku **remarkable** da pretvori vrednost `<textarea>` elementa u realnom vremenu.
