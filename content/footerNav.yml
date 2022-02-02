@@ -1,24 +1,24 @@
 community:
-  title: Community
+  title: Zajednica
 
 docs:
-  title: Docs
+  title: Dokumentacija
 
 more:
-  title: More
+  title: Dodatno
   items:
-    - title: Tutorial
+    - title: Tutorijal
       to: /tutorial/tutorial.html
     - title: Blog
       to: /blog
-    - title: Acknowledgements
+    - title: Priznanja
       to: /acknowledgements.html
     - title: React Native
       to: https://reactnative.dev/
       external: true
 
 channels:
-  title: Channels
+  title: Kanali
   items:
     - title: GitHub
       to: https://github.com/facebook/react
@@ -26,13 +26,13 @@ channels:
     - title: Stack Overflow
       to: https://stackoverflow.com/questions/tagged/reactjs
       external: true
-    - title: Discussion Forums
+    - title: Forumi za diskusiju
       to: https://reactjs.org/community/support.html#popular-discussion-forums
       external: true
     - title: Reactiflux Chat
       to: https://discord.gg/reactiflux
       external: true
-    - title: DEV Community
+    - title: DEV zajednica
       to: https://dev.to/t/react
       external: true
     - title: Facebook
